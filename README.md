@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhuvanaMa
+- 👋 Hi, 
 -  I’m currently learning ...
 
 <!---
